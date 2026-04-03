@@ -1,0 +1,3 @@
+git init inicializa un repositorio de git
+git add . (con el punto) añade los archivos a la lista de guardado
+git commit -m "mensaje de guardado" le indica a git que debe guardar los cambios
